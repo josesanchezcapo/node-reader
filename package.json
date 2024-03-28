@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "password_hash": "$2a$10$DxqROXsIBXsZmK6p8ZwT.OZ5HBljYN23UJOU6gEDId22Z8PdU7Mn6"
+    },
+    {
+      "id": 2,
+      "password_hash": "$2a$10$SDFxOtSgKh.2Y54BrsT79ufHVUSr9A7kNjW3edkLQY4QbtyxD/uQ6"
+    }
+  ]
+}
+]
+
